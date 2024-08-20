@@ -10,7 +10,7 @@ As a Computer Science student majoring in Data Science at Swinburne University o
 I am eager to collaborate on projects that involve data analytics, machine learning, and developing data-driven solutions. Whether it's a personal project, an academic endeavor, or a professional collaboration, I am always excited to work with others who share my enthusiasm for data.
 
 📫 How to Reach Me: 
-- Email: [henry.nguyen@example.com](mailto:henry.nguyen@example.com)
+- Email: [vietanhvt2004@gmail.com](mailto:henry.nguyen@example.com)
 - LinkedIn: [Henry Nguyen](www.linkedin.com/in/henry-nguyen-2b3089307)
 - GitHub: [@vtank4](https://github.com/vtank4)
 
