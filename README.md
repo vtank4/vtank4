@@ -11,7 +11,7 @@ I am eager to collaborate on projects that involve data analytics, machine learn
 
 📫 How to Reach Me: 
 - Email: [vietanhvt2004@gmail.com](mailto:henry.nguyen@example.com)
-- LinkedIn: [Henry Nguyen](www.linkedin.com/in/henry-nguyen-2b3089307)
+- LinkedIn: [Henry Nguyen](https://www.linkedin.com/in/henry-nguyen-2b3089307/)
 - GitHub: [@vtank4](https://github.com/vtank4)
 
 😄 Pronouns:  
